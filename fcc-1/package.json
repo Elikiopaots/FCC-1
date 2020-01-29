@@ -1,6 +1,6 @@
 {
-	"author": "Elikio",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Elikio",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
